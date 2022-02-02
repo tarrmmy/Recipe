@@ -14,7 +14,10 @@
   width: 50%;
   border: none;
   padding: 10px 20px;
-  background-color: white
+  background-color: white;
+  border-radius: 10px;
+  margin: 0px 5px;
+  border: 1.7px solid #a7e2de;
 }
 
 .button {
@@ -27,6 +30,7 @@
 
 .button:hover {
   background-color: rgb(226, 188, 117);
+  color: black;
 }
 
 .recipe {
